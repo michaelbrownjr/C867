@@ -1,0 +1,19 @@
+# ninja log v5
+45	642	590469108	CMakeFiles/Class_Roster.dir/softwareStudent.cpp.obj	2d8c9f879f1778ce
+19	649	590469108	CMakeFiles/Class_Roster.dir/networkStudent.cpp.obj	3562ecce0fe1269a
+32	655	590469108	CMakeFiles/Class_Roster.dir/securityStudent.cpp.obj	85a449b6cebb47f8
+2	959	590469108	CMakeFiles/Class_Roster.dir/student.cpp.obj	c661386b305d12d
+59	1366	590469108	CMakeFiles/Class_Roster.dir/roster.cpp.obj	22176f58e91b2a9a
+1367	2544	590469109	Class_Roster.exe	cfe56530ba3dc6f6
+32	610	590469140	CMakeFiles/Class_Roster.dir/networkStudent.cpp.obj	3562ecce0fe1269a
+19	631	590469140	CMakeFiles/Class_Roster.dir/securityStudent.cpp.obj	85a449b6cebb47f8
+45	638	590469140	CMakeFiles/Class_Roster.dir/softwareStudent.cpp.obj	2d8c9f879f1778ce
+2	911	590469141	CMakeFiles/Class_Roster.dir/student.cpp.obj	c661386b305d12d
+59	1142	590469141	CMakeFiles/Class_Roster.dir/roster.cpp.obj	22176f58e91b2a9a
+1143	1715	590469141	Class_Roster.exe	cfe56530ba3dc6f6
+31	624	590469179	CMakeFiles/Class_Roster.dir/networkStudent.cpp.obj	3562ecce0fe1269a
+20	625	590469179	CMakeFiles/Class_Roster.dir/securityStudent.cpp.obj	85a449b6cebb47f8
+58	699	590469179	CMakeFiles/Class_Roster.dir/softwareStudent.cpp.obj	2d8c9f879f1778ce
+2	932	590469179	CMakeFiles/Class_Roster.dir/student.cpp.obj	c661386b305d12d
+44	998	590469179	CMakeFiles/Class_Roster.dir/roster.cpp.obj	22176f58e91b2a9a
+998	1363	590469179	Class_Roster.exe	cfe56530ba3dc6f6
